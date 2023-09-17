@@ -7,7 +7,7 @@ public class EmailNotification implements Notifier {
     public void sendMessage() {
         System.out.println("Email sent");
     }
-    // if i want to send sms with email then i have to change this class modify this
+    // if i want to send sms with email then i have to change/modify this class either sms or email class
     //OCP violation
     //srp voilation
 }
